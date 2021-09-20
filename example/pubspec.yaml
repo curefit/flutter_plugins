@@ -1,6 +1,12 @@
 name: device_calendar_example
 description: Demonstrates how to use the device_calendar plugin.
 
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=2.0.0 <3.0.0"
+
+
 dependencies:
   flutter:
     sdk: flutter
